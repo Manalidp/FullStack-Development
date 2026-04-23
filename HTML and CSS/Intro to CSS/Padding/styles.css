@@ -1,0 +1,24 @@
+.card {
+    color: #212121;
+    background: #fff4f4;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 25px;
+    text-align: justify;
+
+    border: 4px solid rgb(255, 172, 141);
+    border-radius: 15px;
+
+    /* padding-left: 0px;
+    padding-bottom: 0px;
+    padding-top: 100px;
+    padding-right: 100px;
+    text-align: justify; */
+    /*
+    Challenge:
+    Add padding to make our card look like
+    the provided design */
+}
