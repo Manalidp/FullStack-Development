@@ -5,6 +5,7 @@
 
 .item{
     text-align: center;
+    width: 90px;
     border: 10px;
     background-color: rgb(196, 195, 195);
     padding: 10px;
